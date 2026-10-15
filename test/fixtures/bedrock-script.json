@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"category\":\"trending\",\"title\":\"Test Reel\",\"scenes\":[{\"sceneNumber\":1,\"voiceover\":\"This is a test voiceover for scene one.\",\"caption\":\"Test Caption\",\"imagePrompt\":\"A bright test image for scene one\"},{\"sceneNumber\":2,\"voiceover\":\"This is a test voiceover for scene two.\",\"caption\":\"Scene Two\",\"imagePrompt\":\"A second test image\"}],\"hashtags\":[\"#TestReel\",\"#Testing\"]}"
+    }
+  ]
+}

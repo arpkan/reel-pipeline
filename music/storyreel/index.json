@@ -1,0 +1,182 @@
+[
+  {
+    "genre": "upbeat",
+    "energy": "high",
+    "tempo": "fast",
+    "filename": "upbeat/mixaund-sunshine-day.mp3",
+    "title": "Sunshine Day",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-sunshine-day.html"
+  },
+  {
+    "genre": "upbeat",
+    "energy": "high",
+    "tempo": "fast",
+    "filename": "upbeat/fsm-team-happy-days.mp3",
+    "title": "Happy Days",
+    "artist": "FSM Team",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-happy-days.html"
+  },
+  {
+    "genre": "upbeat",
+    "energy": "high",
+    "tempo": "medium",
+    "filename": "upbeat/mixaund-joyful.mp3",
+    "title": "Joyful",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-joyful.html"
+  },
+  {
+    "genre": "calm",
+    "energy": "low",
+    "tempo": "slow",
+    "filename": "calm/fsm-team-escp-lucid-dreaming.mp3",
+    "title": "Lucid Dreaming",
+    "artist": "FSM Team feat. < e s c p >",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-escp-lucid-dreaming.html"
+  },
+  {
+    "genre": "calm",
+    "energy": "low",
+    "tempo": "slow",
+    "filename": "calm/fsm-team-escp-downtown-walk.mp3",
+    "title": "Downtown Walk",
+    "artist": "FSM Team feat. < e s c p >",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-escp-downtown-walk.html"
+  },
+  {
+    "genre": "calm",
+    "energy": "low",
+    "tempo": "slow",
+    "filename": "calm/fsm-team-escp-rain-book-and-cup-of-tea.mp3",
+    "title": "Rain, Book And Cup Of Tea",
+    "artist": "FSM Team feat. < e s c p >",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-escp-rain-book-and-cup-of-tea.html"
+  },
+  {
+    "genre": "neutral",
+    "energy": "medium",
+    "tempo": "fast",
+    "filename": "neutral/fsm-team-escp-games-we-used-to-play.mp3",
+    "title": "Games We Used to Play",
+    "artist": "FSM Team feat. < e s c p >",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-escp-games-we-used-to-play.html"
+  },
+  {
+    "genre": "neutral",
+    "energy": "medium",
+    "tempo": "medium",
+    "filename": "neutral/fsm-team-escp-neonscapes.mp3",
+    "title": "Neonscapes",
+    "artist": "FSM Team feat. < e s c p >",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-escp-neonscapes.html"
+  },
+  {
+    "genre": "neutral",
+    "energy": "medium",
+    "tempo": "medium",
+    "filename": "neutral/mixaund-starry-sky.mp3",
+    "title": "Starry Sky",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-starry-sky.html"
+  },
+  {
+    "genre": "playful",
+    "energy": "high",
+    "tempo": "medium",
+    "filename": "playful/mixaund-brighten-your-day-music-bundle.mp3",
+    "title": "Brighten Your Day",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-brighten-your-day-music-bundle.html"
+  },
+  {
+    "genre": "playful",
+    "energy": "medium",
+    "tempo": "medium",
+    "filename": "playful/mixaund-dreamers.mp3",
+    "title": "Dreamers",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-dreamers.html"
+  },
+  {
+    "genre": "playful",
+    "energy": "medium",
+    "tempo": "medium",
+    "filename": "playful/fsm-team-afrobeats.mp3",
+    "title": "Afrobeats",
+    "artist": "FSM Team",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fsm-team-afrobeats.html"
+  },
+  {
+    "genre": "dramatic",
+    "energy": "medium",
+    "tempo": "slow",
+    "filename": "dramatic/shane-ivers-two-guns-one-destiny.mp3",
+    "title": "Two Guns, One Destiny",
+    "artist": "Shane Ivers",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/shane-ivers-two-guns-one-destiny.html"
+  },
+  {
+    "genre": "dramatic",
+    "energy": "high",
+    "tempo": "medium",
+    "filename": "dramatic/fscm-productions-history-repeats-itself.mp3",
+    "title": "History Repeats Itself",
+    "artist": "FSCM Productions",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/fscm-productions-history-repeats-itself.html"
+  },
+  {
+    "genre": "dramatic",
+    "energy": "high",
+    "tempo": "fast",
+    "filename": "dramatic/alexander-nakarada-chase.mp3",
+    "title": "Chase",
+    "artist": "Alexander Nakarada (CreatorChords)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/alexander-nakarada-chase.html"
+  },
+  {
+    "genre": "inspirational",
+    "energy": "medium",
+    "tempo": "medium",
+    "filename": "inspirational/mixaund-motivate-me.mp3",
+    "title": "Motivate Me",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-motivate-me.html"
+  },
+  {
+    "genre": "inspirational",
+    "energy": "high",
+    "tempo": "fast",
+    "filename": "inspirational/corporate-music-zone-rise.mp3",
+    "title": "Rise",
+    "artist": "Corporate Music Zone",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/corporate-music-zone-rise.html"
+  },
+  {
+    "genre": "inspirational",
+    "energy": "medium",
+    "tempo": "medium",
+    "filename": "inspirational/mixaund-inspire-and-motivate.mp3",
+    "title": "Inspire And Motivate",
+    "artist": "Mixaund",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.free-stock-music.com/mixaund-inspire-and-motivate.html"
+  }
+]

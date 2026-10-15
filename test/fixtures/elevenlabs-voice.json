@@ -1,0 +1,8 @@
+{
+  "audio_base64": "UklGRiQAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAZGF0YQAAAAA=",
+  "alignment": {
+    "characters": ["T","h","i","s"],
+    "character_start_times_seconds": [0.0, 0.05, 0.1, 0.15],
+    "character_end_times_seconds": [0.05, 0.1, 0.15, 0.2]
+  }
+}

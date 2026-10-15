@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.js.map
+*.tsbuildinfo
+
+# Environment — never commit secrets
+.env
+.env.local
+.env.*.local
+
+# Database (live runtime files — backed up separately via deploy.sh)
+data/pipeline.db
+data/pipeline.db-wal
+data/pipeline.db-shm
+data/reel-skip-flags.json
+pipeline.db
+
+# DB backups (local disk only)
+data/backups/
+
+# Runtime working directories
+work/
+logs/
+reel-test-output/
+
+# Large binary assets (manage separately)
+assets/music/
+
+# Visual brainstorming
+.superpowers/
+
+# OS / IDE
+.DS_Store
+.idea/
+*.swp
+*.swo
+.worktrees/
+test.db
+test/*.db
+test/work/
+
+# Test build artifacts
+dist/test/
+keys/
+
+# Local tool output / per-user settings
+.claude/settings.local.json
+tmp-stock-test/

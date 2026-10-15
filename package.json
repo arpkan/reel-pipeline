@@ -1,0 +1,64 @@
+{
+  "name": "reel-pipeline",
+  "version": "1.0.0",
+  "description": "Automated news-to-reel video pipeline: discovery, scripting, TTS, image generation, rendering, human review and social publishing.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arpkan/reel-pipeline.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "tsx watch bin/server.ts",
+    "build": "tsc",
+    "start": "node dist/bin/server.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:seed": "tsx test/seed.ts",
+    "test:stage0": "tsx test/runner.ts --stage=0",
+    "test:stage1": "tsx test/runner.ts --stage=1",
+    "test:stage2": "tsx test/runner.ts --stage=2",
+    "test:stage3": "tsx test/runner.ts --stage=3",
+    "test:stage3b": "tsx test/runner.ts --stage=3b",
+    "test:stage4a": "tsx test/runner.ts --stage=4a",
+    "test:stage4b": "tsx test/runner.ts --stage=4b",
+    "test:all": "tsx test/runner.ts --stage=all",
+    "cli": "tsx bin/run.ts",
+    "batch": "tsx scripts/batch-run.ts",
+    "benchmark:stage5": "tsx scripts/benchmark-stage5-renderers.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/bedrock-sdk": "^0.34.4",
+    "@aws-sdk/client-ec2": "^3.1037.0",
+    "@aws-sdk/client-sqs": "^3.1037.0",
+    "@contentauth/c2pa-node": "^0.5.5",
+    "@google-cloud/storage": "^7.0.0",
+    "@google/genai": "^1.46.0",
+    "@hono/node-server": "^1.19.11",
+    "@hyperframes/producer": "^0.4.34",
+    "better-sqlite3": "^9.0.0",
+    "date-fns-tz": "^3.2.0",
+    "dotenv": "^16.0.0",
+    "drizzle-orm": "^0.30.0",
+    "hono": "^4.0.0",
+    "node-cron": "^3.0.0",
+    "node-html-to-image": "^5.0.0",
+    "puppeteer": "^24.40.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-polly": "^3.1020.0",
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/nock": "^10.0.3",
+    "@types/node": "^22.0.0",
+    "@types/node-cron": "^3.0.0",
+    "drizzle-kit": "^0.20.0",
+    "nock": "^14.0.12",
+    "tsx": "^4.21.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  }
+}

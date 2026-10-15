@@ -1,0 +1,11 @@
+{
+  "stories": [
+    {
+      "headline": "Test Headline",
+      "source": "Test Source",
+      "sourceUrl": "https://example.com/test",
+      "pillar": "general",
+      "snippet": "A test story snippet for testing purposes."
+    }
+  ]
+}

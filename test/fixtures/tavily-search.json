@@ -1,0 +1,11 @@
+{
+  "results": [
+    {
+      "title": "Test Story Title",
+      "url": "https://example.com/test-story",
+      "content": "This is a test story about something interesting that happened today.",
+      "score": 0.95
+    }
+  ],
+  "answer": "A test story about something interesting."
+}
