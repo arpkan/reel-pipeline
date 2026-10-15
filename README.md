@@ -89,7 +89,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for conventions and the design-doc workfl
 
 ## Author
 
-**Kanokkarn Arpaapinan** · [LinkedIn](https://www.linkedin.com/in/arpkan/)
+**arpkan**: [GitHub](https://github.com/arpkan)
 
 I designed and run this pipeline. It has published reels daily since April 2026, now for three news brands. I wrote the design doc for every change in [`docs/`](docs/) and made the architecture, provider and responsible-AI decisions (C2PA signing, on-screen AI labels, the political-figure guard). Every reel goes through my review before it is published.
 
